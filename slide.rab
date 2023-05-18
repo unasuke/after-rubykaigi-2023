@@ -1,0 +1,159 @@
+= After RubyKaigi 2023\n〜メドピア、ZOZO、Findy〜
+
+: author
+  unasuke (Yusuke Nakamura)
+# : content-source
+#   After RubyKaigi 2023〜メドピア、ZOZO、Findy〜
+: date
+  2023-05-18
+: theme
+  unasuke-white
+
+= 自己紹介
+  
+  * Name: うなすけ
+  * Work: フリーランス
+  * Ruby歴: 8年くらい
+  * Kaigi on Rails オーガナイザー (Kaigi on Rails 2023来てね！！！)
+  * Itamae gem メンテナ
+  * (('tag:x-small')) GitHub ((<URL:https://github.com/unasuke>))
+  * (('tag:x-small')) Mastodon ((<URL:https://mstdn.unasuke.com/@unasuke>))
+  * (('tag:x-small')) Twitter ((<URL:https://twitter.com/yu_suke1994>))
+
+  # image
+  # src = img/icon_face.jpeg
+  # relative_width = 24
+  # align = right
+  # relative_margin_right = -8
+  # relative_margin_top = 20
+
+= 自己紹介
+  
+  * Name: うなすけ
+  * Work: フリーランス
+  * Ruby歴: 8年くらい
+  * Kaigi on Rails オーガナイザー (Kaigi on Rails 2023来てね！！！)
+  * Itamae gem メンテナ
+  * (('tag:x-small')) GitHub ((<URL:https://github.com/unasuke>))
+  * (('tag:x-small')) Mastodon ((<URL:https://mstdn.unasuke.com/@unasuke>))
+  * (('tag:x-small')) Twitter ((<URL:https://twitter.com/yu_suke1994>))
+
+  # image
+  # src = img/icon.jpg
+  # relative_width = 24
+  # align = right
+  # relative_margin_right = -8
+  # relative_margin_top = 20
+
+= RubyKaigi 2023での役割
+
+  * Speaker
+    * "Ruby Implementation of QUIC: Progress and Challenges"
+    * ((<URL:https://slide.rabbit-shocker.org/authors/unasuke/rubykaigi-2023/>))
+  * Helper
+    * NOC team (インターネットのお手伝い)
+  * DJ
+    * RubyMusicMixin2023 by pixiv
+
+= 皆様からの質問 1
+  # blockquote
+  英語はどうやって練習しましたか？発音とか区切り方とかかなり良かったのでぜひ共有していただきたいです！
+
+= 英語発表について
+
+(1) 発表時間に収まるように原稿を書く
+    * 日本語 → DeepL → 英語
+(2) 通しで読む (何度も繰り返す)
+    * otter.aiに聞かせてみたり
+
+= 英語の勉強について
+  # image
+  # src = https://i.gyazo.com/cebb90629972a358680126d4b15ba03b.jpg
+  # relative_width = 38
+  # align = center
+
+= 英語の勉強について
+* Duolingo (毎日5分くらい)
+* 英語のPodcastや過去のRubyKaigiの発表をBGMにしたり
+  * (1ヶ月前くらいから)
+
+
+
+= 皆様からの質問 2
+  # blockquote
+  総じてGrantに応募して良かったですか？
+
+= Grantに応募してよかったか
+
+よかった！！！！！！！！！！！！
+
+= Grantに応募してよかった点
+
+* ko1さんに壁打ち相手になってもらえる
+* 締め切りができる (中間報告)
+* 助成金が出る
+* 締め切りができる (最終報告)
+
+レッツ応募
+
+= 皆様からの質問 3
+  # blockquote
+  TupleをRubyで実現するとしたら、どんな記法がよいと思いますか？
+
+= TupleのRuby表現
+* 括弧っぽい感じの記法がほしい
+  * 記号足りない問題
+    * 移植においては、妥協案としての配列
+* となると % 記法？
+  * あらゆるオブジェクトを含めたいが……
+* 関数呼び出しにする？
+  * `t("abc", 123)` みたいな？
+
+今からだと厳しい、か？
+
+
+= さて
+
+= 何を話したものか
+うなすけ「何を話したもんですかねえ」
+
+大倉さん「これまでのRubyKaigiの経験とか？」
+
+= 初RubyKaigi 2015
+  # image
+  # src = img/rubykaigi-2015.jpg
+  # align = center
+  # relative_width = 60
+
+(('tag:center'))初参加(新卒)
+
+= 初proposal提出(reject) RubyKaigi 2018
+  # image
+  # src = https://i.gyazo.com/778acde46c351fff6bdedb5fd9cf91a1.png
+  # align = center
+  # relative_width = 100
+
+((<URL:https://blog.unasuke.com/2018/the-world-of-mail-gem-maybe-not-you-know/>))
+
+= 初helper RubyKaigi 2018
+
+  # image
+  # src = https://i.gyazo.com/c27c18611c3d1ea224d6115411a1c787.jpg
+  # align = center
+  # relative_width = 65
+
+= 初採択 RubyKaigi Takeout 2021
+  # image
+  # src = https://i.gyazo.com/0be06a6c2d007cb087a5dac0e687aca3.png
+  # align = center
+  # relative_width = 100
+
+= まあつまり
+* 地続き
+
+= 採択されるには
+* 自分でコードを書く
+* 自分でコードをめっちゃ書く
+
+= 採択されなくても
+* 楽しんだもの勝ち
